@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python caches (if you test scripts here)
+__pycache__/
+*.pyc
+
+# Local test output from trying the skill in this folder
+/notes/
+
+# Note: dist/*.zip IS committed on purpose (download link for claude.ai users)

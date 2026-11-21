@@ -1,0 +1,17 @@
+{
+  "name": "kelc66-plugins",
+  "description": "Kelc66's Claude plugins: study tools and anything else I build. Add once, browse and install what you need.",
+  "owner": {
+    "name": "Kelc66",
+    "url": "https://github.com/Kelc66"
+  },
+  "plugins": [
+    {
+      "name": "lecture-to-notes",
+      "source": "./plugins/lecture-to-notes",
+      "description": "Turn a university lecture (slides + your own notes) into a tutor-style explanation, then exam notes (plus MATLAB/Python scripts for programming courses), with per-course progress tracking. Works for any subject.",
+      "category": "study",
+      "tags": ["study", "university", "lecture-notes", "exam-prep", "matlab", "python"]
+    }
+  ]
+}

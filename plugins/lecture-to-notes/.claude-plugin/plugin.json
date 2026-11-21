@@ -1,0 +1,14 @@
+{
+  "name": "lecture-to-notes",
+  "displayName": "Lecture to Notes",
+  "version": "1.0.0",
+  "description": "Turn a university lecture (slides + your own notes) into a tutor-style explanation, then exam notes (Theory by Lecture, Theory by Procedure) and, for programming courses, a Command Reference, Prepared Scripts and MATLAB/Python scripts. Works for any subject. One progress file per course remembers settings, numbering and what is done.",
+  "author": {
+    "name": "Kelc66",
+    "url": "https://github.com/Kelc66"
+  },
+  "homepage": "https://github.com/Kelc66/claude-plugins",
+  "repository": "https://github.com/Kelc66/claude-plugins",
+  "license": "MIT",
+  "keywords": ["study", "university", "lecture", "notes", "exam", "matlab", "python", "tutor"]
+}
